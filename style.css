@@ -3,6 +3,8 @@ body {
   color: white;
   display: flex;
   align-items: center;
+  background-image: url("./img/pumpkin-yellow-halloween-party-2019.jpg");
+  background-size: cover;
 }
 ::selection {
   background: transparent;
